@@ -10,22 +10,22 @@ class Navbar extends Component {
 				<nav className="black darken-4">
 					<div className="container">
 						<div className="nav-wrapper">
-							<a href="#home" className="brand-logo">Caglar Panus</a>
+							<a href="#home" className="brand-logo"><strong>Caglar Panus</strong></a>
 							<a href="#" data-target="mobile-nav" className="sidenav-trigger">
 								<i className="material-icons">menu</i>
 							</a>
 							<ul className="right hide-on-med-and-down">
 								<li>
-									<a href="#home">Home</a>
+									<a href="#home"><strong>Home</strong></a>
 								</li>
 								<li>
-									<a href="#technologies">Technologies</a>
+									<a href="#technologies"><strong>Technologies</strong></a>
 								</li>
 								<li>
-									<a href="#portfolio">Portfolio</a>
+									<a href="#portfolio"><strong>Portfolio</strong></a>
 								</li>
 								<li>
-									<a href="#contact">Contact</a>
+									<a href="#contact"><strong>Contact</strong></a>
 								</li>
 							</ul>
 						</div>
@@ -34,16 +34,16 @@ class Navbar extends Component {
 			</div>
 			<ul className="sidenav" id="mobile-nav">
 				<li>
-					<a href="#home">Home</a>
+					<a href="#home"><strong>Home</strong></a>
 				</li>
 				<li>
-					<a href="#technologies">Technologies</a>
+					<a href="#technologies"><strong>Technologies</strong></a>
 				</li>
 				<li>
-					<a href="#portfolio">Portfolio</a>
+					<a href="#portfolio"><strong>Portfolio</strong></a>
 				</li>
 				<li>
-					<a href="#contact">Contact</a>
+					<a href="#contact"><strong>Contact</strong></a>
 				</li>
 			</ul>
 		</div>
