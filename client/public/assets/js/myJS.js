@@ -6,7 +6,7 @@ const sideBarInit = ()=>{
 const sliderInit = ()=>{
 	const slider = document.querySelector('.slider');
 	M.Slider.init(slider, {
-		indicators: true,
+		indicators: false,
 		height: 500,
 		transition: 500,
 		interval: 7000
