@@ -11,7 +11,7 @@ const sliderInit = ()=>{
 		transition: 500,
 		interval: 7000
 	});	
-}
+} 
 
 const collapsibleInit = ()=>{
 	var elem = document.querySelector('.collapsible');

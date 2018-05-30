@@ -36,7 +36,7 @@ class Contact extends Component{
 							<div className="card-panel indigo lighten-5">
 								<div className="row no-margin">
 									<div className="col s12">
-										<h5>Contact Me via this form</h5>
+										<h5>Contact Me</h5>
 									</div>
 								</div>
 								<div className="row no-margin">
