@@ -16,7 +16,7 @@ class Follow extends Component {
 							<a href="https://www.facebook.com/caglar.panus" className="white-text" target="_blank" rel="noopener noreferrer">
 								<i className="fab fa-facebook fa-4x"></i>
 							</a>
-							<a href="www.linkedin.com/in/caglarpanus" className="white-text" target="_blank" rel="noopener noreferrer">
+							<a href="https://www.linkedin.com/in/caglarpanus/" className="white-text" target="_blank" rel="noopener noreferrer">
 								<i className="fab fa-linkedin fa-4x"></i>
 							</a>
 						</div>

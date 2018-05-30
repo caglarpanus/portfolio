@@ -536,7 +536,7 @@
 }
 
 .indigo-text {
-  color: #3f51b5 !important;
+  color: #174819 !important;
 }
 
 .indigo.lighten-5 {
@@ -2048,7 +2048,7 @@
 }
 
 .grey-text.text-lighten-5 {
-  color: #fafafa !important;
+  color: #174819 !important;
 }
 
 .grey.lighten-4 {
@@ -2068,7 +2068,7 @@
 }
 
 .grey.lighten-2 {
-  background-color: #174819 !important;
+  background-color: #e0e0e0 !important;
 }
 
 .grey-text.text-lighten-2 {
@@ -4469,6 +4469,10 @@ nav .input-field label.active i {
 
 .navbar-fixed nav {
   position: fixed;
+  background-color:transparent !important;
+  border-color:transparent;
+  background-image:none;
+  box-shadow:none; 
 }
 
 @media only screen and (min-width: 601px) {
@@ -4563,7 +4567,7 @@ em {
 }
 
 strong {
-  font-weight: 500;
+  font-weight: 700;
 }
 
 small {
@@ -8296,7 +8300,7 @@ input[type=range].focused:focus:not(.active)::-ms-thumb {
 .slider .slides li .caption {
   color: #fff;
   position: absolute;
-  top: 15%;
+  top: 5%;
   left: 15%;
   width: 70%;
   opacity: 0;
