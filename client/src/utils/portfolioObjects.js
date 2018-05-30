@@ -1,7 +1,7 @@
 const portfolioObjects = [
 	{
 		img:"/assets/img/LandingPad.jpg",
-		title:"Parking Pad!",
+		title:"Landing Pad",
 		description:"Crowdsource parking app that allows users to rent spare parking spaces to other users in order to facilitate stress-free parking in bottleneck areas where parking is a nightmare.",
 		urlDemo:"https://parking-pad.herokuapp.com/",
 		urlCode:"https://github.com/caglarpanus/Landing-Pad",
@@ -35,7 +35,7 @@ const portfolioObjects = [
 		img:"/assets/img/bamazon.gif",
 		title:"Bamazon",
 		description:"An Amazon-like storefront by using MySQL, and Node.js",
-		urlDemo:"You must clone the repo on Github",
+		urlDemo:"https://github.com/caglarpanus/MySQL-Node.js",
 		urlCode:"https://github.com/caglarpanus/MySQL-Node.js",
 		details:["MySQL","Nodejs","JQuery", "Javascript"],
 	},
