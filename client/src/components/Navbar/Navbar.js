@@ -25,6 +25,9 @@ class Navbar extends Component {
 									<a href="#portfolio"><strong>Portfolio</strong></a>
 								</li>
 								<li>
+									<a href="https://drive.google.com/file/d/1Z4Ha8FmOhi0860RIv37tQ4E6stzqsmTf/view?usp=sharing" target="_blank"><strong>Resume</strong></a>
+								</li>
+								<li>
 									<a href="#contact"><strong>Contact</strong></a>
 								</li>
 							</ul>
@@ -41,6 +44,9 @@ class Navbar extends Component {
 				</li>
 				<li>
 					<a href="#portfolio"><strong>Portfolio</strong></a>
+				</li>
+				<li>
+					<a href="https://drive.google.com/file/d/1Z4Ha8FmOhi0860RIv37tQ4E6stzqsmTf/view?usp=sharing"><strong>Resume</strong></a>
 				</li>
 				<li>
 					<a href="#contact"><strong>Contact</strong></a>
