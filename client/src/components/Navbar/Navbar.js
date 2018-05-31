@@ -14,7 +14,7 @@ class Navbar extends Component {
 							<a href="#" data-target="mobile-nav" className="sidenav-trigger">
 								<i className="material-icons">menu</i>
 							</a>
-							<ul className="right hide-on-med-and-down">
+							<ul className="right hide-on-med-and-down"> 
 								<li>
 									<a href="#home"><strong>Home</strong></a>
 								</li>

@@ -15,14 +15,14 @@ class AdditionalDetails extends Component {
 								<div className="collapsible-body white left-align">
 									<table className="striped">
 										<tbody>
+											<tr><td>Javascript ES5/ES6</td></tr>
+											<tr><td>JQuery</td></tr>
 											<tr><td>HTML5</td></tr>
 											<tr><td>CSS3</td></tr>
 											<tr><td>CSS Animation/Keyframes</td></tr>
-											<tr><td>Bootstrap 3/4</td></tr>
+											<tr><td>Bootstrap</td></tr>
 											<tr><td>Materialize</td></tr>
 											<tr><td>Handlebars</td></tr>
-											<tr><td>JQuery</td></tr>
-											<tr><td>Javascript ES5/ES6</td></tr>
 										</tbody>
 									</table>
 								</div>
@@ -32,10 +32,10 @@ class AdditionalDetails extends Component {
 								<div className="collapsible-body white left-align">
 									<table className="striped">
 										<tbody>
-                                            <tr><td>Passport</td></tr>
-											<tr><td>Axios</td></tr>
-											<tr><td>Mocha/Chai</td></tr>
-											<tr><td>Nightmare</td></tr>
+                                            <tr><td>User Authentication</td></tr>
+											<tr><td>Stripe Payment</td></tr>
+											<tr><td>Mocha/Chai for Testing</td></tr>
+											<tr><td>Nightmare for Testing</td></tr>
 											<tr><td>Bcrypt</td></tr>
 											<tr><td>Firebase</td></tr>
 											<tr><td>MVC Structure</td></tr>

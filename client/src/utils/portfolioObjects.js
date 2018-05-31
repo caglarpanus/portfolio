@@ -5,7 +5,7 @@ const portfolioObjects = [
 		description:"Crowdsource parking app that allows users to rent spare parking spaces to other users in order to facilitate stress-free parking in bottleneck areas where parking is a nightmare.",
 		urlDemo:"https://parking-pad.herokuapp.com/",
 		urlCode:"https://github.com/caglarpanus/Landing-Pad",
-		details:["Reactstrap","MERN","Stripe","Passportjs","JWT","Mongoose","Heroku","Mobile","Google API", "ParkWhiz API"],
+		details:["Reactstrap","MERN","Stripe","Passportjs","JWT","MongoDB","Heroku","Google API", "ParkWhiz API"],
 	},
 	{
 		img:"/assets/img/Tamagotchi.jpg",

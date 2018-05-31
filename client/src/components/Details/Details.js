@@ -22,7 +22,7 @@ class Details extends Component {
 						</div>
 						<div className="col s12 m6 l3">
 							<div className="card-panel">
-								<img className="responsive-img" src="/assets/img/express.png" alt="express" />
+								<img className="responsive-img" src="/assets/img/express.png" alt="express"/>
 								<ul className="collection">
 									<li className="collection-item">Server Setup</li>
 									<li className="collection-item">RESTful API</li>
