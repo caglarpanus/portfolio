@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "Caglar's Portfolio Site",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "server": "node server.js",
     "client": "node scripts/start-client.js",
