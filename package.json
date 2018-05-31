@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "Caglar's Portfolio Site",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "server": "node server.js",
     "client": "node scripts/start-client.js",
@@ -21,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/caglarpanus/portfolio/issues"
   },
-  "homepage": "https://github.com/caglarpanus/portfolio",
   "devDependencies": {
     "concurrently": "^3.5.0",
     "nodemon": "^1.11.0"
