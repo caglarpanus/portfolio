@@ -25,7 +25,7 @@ class Navbar extends Component {
 									<a href="#portfolio"><strong>Portfolio</strong></a>
 								</li>
 								<li>
-									<a href="https://drive.google.com/file/d/1Z4Ha8FmOhi0860RIv37tQ4E6stzqsmTf/view?usp=sharing" target="_blank"><strong>Resume</strong></a>
+									<a href="https://drive.google.com/file/d/1Z4Ha8FmOhi0860RIv37tQ4E6stzqsmTf/view?usp=sharing" target="_blank" rel="noopener noreferrer"><strong>Resume</strong></a>
 								</li>
 								<li>
 									<a href="#contact"><strong>Contact</strong></a>
