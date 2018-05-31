@@ -20,7 +20,7 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/portfolio', { p
 app.use(sslRedirect());
 
 // Set Static Folder
-app.use(express.static(path.join(__dirname, 'client/build')));
+app.use(express.static("client/build"));
 
 //BodyParser
 app.use(bodyParser.json());
