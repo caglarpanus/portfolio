@@ -8,7 +8,7 @@ const sslRedirect = require("heroku-ssl-redirect");
 const PORT = process.env.PORT || 3001;
 const app = express();
 
-const server = http.createServer(app);
+// const server = http.createServer(app);
 
 
 mongoose.Promise = require('bluebird');
@@ -48,6 +48,6 @@ if (process.env.NODE_ENV === 'production') {
   });
 }
 
-server.listen(PORT, function() {
+app.listen(PORT, function() {
 console.log(`🌎 ==> Server now on port ${PORT}!`)
 });
