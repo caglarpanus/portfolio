@@ -29,18 +29,9 @@ app.use(express.static("client/build"));
 // Send every request to the React app
 // Define any API routes before this runs
 app.get("*", function(req, res) {
-    res.sendFile(path.join(__dirname, "client/build/index.html"));
+    res.sendFile(path.join(__dirname, "./client/build/index.html"));
   });
 
-  
-if (process.env.NODE_ENV === 'production') {
-	const path = require('path');
-	console.log('YOU ARE IN THE PRODUCTION ENV');
-	app.use('/static', express.static(path.join(__dirname, '../build/static')));
-	app.get('/', (req, res) => {
-		res.sendFile(path.join(__dirname, '../build/'));
-	});
-}
 
 server.listen(PORT, function() {
 console.log(`🌎 ==> Server now on port ${PORT}!`)
