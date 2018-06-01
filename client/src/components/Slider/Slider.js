@@ -1,12 +1,13 @@
 import React, {Component} from "react";
+// import Particles from 'react-particles-js';
 
-
+// import logo from './background.jpg'
 class Slider extends Component {
 
-
 	render(){
+		
 		return(
-			<section id="home" className="slider fullscreen scrollspy"> 
+			<section id="home" className="slider fullscreen scrollspy">
 				<ul className="slides">
 					<li>
 						<img src="/assets/img/background.jpg" alt="Caglar" />
@@ -17,6 +18,7 @@ class Slider extends Component {
 					</li>
 				</ul>
 			</section>
+			
 		)
 	}
 }
