@@ -41,7 +41,7 @@ class AboutMe extends Component{
 									I am excited to finally pursue my passion for web-development, and coding.
 								</p>
 								<p className="hide-on-med-only hide-on-small-only">
-									Outside of coding, I love playing or watching soccer. I also travel a lot, most of the time that's becuase my and my wife's family live in abroad.
+									Outside of coding, I love playing or watching soccer. I also travel a lot, mostly because my and my wife's families live abroad.
 								</p>
 								<p className="hide-on-med-only hide-on-small-only">
 									(Don&apos;t click on my picture!)

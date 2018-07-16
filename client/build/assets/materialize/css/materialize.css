@@ -4465,8 +4465,6 @@ nav .input-field label.active i {
 
 .navbar-fixed nav {
   position: fixed;
-  background-color:transparent !important;
-  border-color:transparent;
   background-image:none;
   box-shadow:none; 
 }
